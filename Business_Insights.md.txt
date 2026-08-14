@@ -1,0 +1,70 @@
+# Business Insights
+
+## 1. Bank Overview
+
+- The database contains 1,072 customers.
+- There are 1,618 accounts.
+- Total account balance is 79,210,637.78.
+
+## 2. Account Analysis
+
+- Business accounts have the highest total balance.
+- Checking accounts have the lowest total balance among the five account types.
+- Account balances are relatively evenly distributed across account types.
+- 80.16% of accounts are Active.
+- 15.39% are Inactive.
+- 4.45% are Closed.
+
+## 3. Customer Analysis
+
+- The analysis identified the highest-value customers based on total account balance.
+- Some customers maintain multiple accounts, indicating higher engagement with the bank.
+- Customer concentration varies across different cities.
+
+## 4. Transaction Analysis
+
+- Deposit transactions have the highest total transaction value.
+- Transfer transactions have the highest average transaction amount.
+- Branch-level analysis identifies the branches generating the highest transaction value.
+- Monthly transaction analysis can be used to identify changes in transaction activity over time.
+
+## 5. Loan Analysis
+
+- Loan portfolio analysis shows the distribution of loans across different loan statuses.
+- Customers can be ranked based on their total loan exposure.
+- Customer type analysis helps identify which customer segments contribute most to the loan portfolio.
+
+## 6. Advanced SQL Analysis
+
+The project uses advanced SQL techniques including:
+
+- Common Table Expressions (CTEs)
+- LAG()
+- RANK()
+- DENSE_RANK()
+- ROW_NUMBER()
+- Window functions
+- Running totals
+- Month-over-Month growth analysis
+
+## 7. Business Recommendations
+
+### Customer Retention
+
+Focus on customers with multiple accounts and high balances because they represent highly engaged customers.
+
+### Transaction Growth
+
+Monitor monthly transaction trends to identify periods of unusually high or low activity.
+
+### Branch Performance
+
+High-performing branches can be studied to identify practices that could be replicated across lower-performing branches.
+
+### Loan Management
+
+Customers with high loan exposure should be monitored carefully to understand portfolio concentration and risk.
+
+### Customer Segmentation
+
+Customer type and account behavior can be combined to create more targeted banking products and services.
