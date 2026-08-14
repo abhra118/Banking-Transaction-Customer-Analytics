@@ -50,3 +50,21 @@ Banking-Transaction-Customer-Analytics
 │
 └── Insights
     └── Business Insights
+
+## 🖼️ Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Insights/Executive_Overview.jpg)
+
+### Customer Analytics
+
+![Customer Analytics](Insights/Customer_Analytics.jpg)
+
+### Transaction Analytics
+
+![Transaction Analytics](Insights/Transaction_Analytics.jpg)
+
+### Loan Analytics
+
+![Loan Analytics](Insights/Loan_Analytics.jpg)
