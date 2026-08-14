@@ -46,7 +46,7 @@ The Power BI dashboard contains four analytical pages covering the bank's custom
 
 ### 1. Executive Overview
 
-![Executive Overview](Insights/Executive_Overview.jpg)
+![Executive_Overview](Insights/Executive_Overview.jpg)
 
 Provides a high-level overview of:
 
@@ -63,7 +63,7 @@ Provides a high-level overview of:
 
 ### 2. Customer Analytics
 
-![Customer Analytics](Insights/Customer_Analytics.jpg)
+![Customer_Analytics](Insights/Customer_Analytics.jpg)
 
 Analyzes:
 
@@ -78,7 +78,7 @@ Analyzes:
 
 ### 3. Transaction Analytics
 
-![Transaction Analytics](Insights/Transaction_Analytics.jpg)
+![Transaction_Analytics](Insights/Transaction_Analytics.jpg)
 
 Analyzes:
 
@@ -92,7 +92,7 @@ Analyzes:
 
 ### 4. Loan Analytics
 
-![Loan Analytics](Insights/Loan_Analytics.jpg)
+![Loan_Analytics](Insights/Loan_Analytics.jpg)
 
 Analyzes:
 
